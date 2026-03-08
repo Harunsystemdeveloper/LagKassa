@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LagkassaApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ccdc0adfe98201659133bc88d7a36523703e0bc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afaa24a0ea74bbfb999e4852d203771d3df3d5fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("LagkassaApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LagkassaApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
